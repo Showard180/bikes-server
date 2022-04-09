@@ -20,7 +20,7 @@
     "crypto": "0.0.3",
     "express": "^4.15.2",
     "jsonwebtoken": "^7.4.0",
-    "moment": "^2.19.3",
+    "moment": "^2.29.2",
     "mongoose": "^4.9.7",
     "mongoose-auto-increment": "^5.0.1",
     "nock": "^9.0.22",
